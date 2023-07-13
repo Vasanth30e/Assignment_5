@@ -1,0 +1,8 @@
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\obj\Debug\Assignment_5.csproj.AssemblyReference.cache
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\obj\Debug\Assignment_5.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\obj\Debug\Assignment_5.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe.config
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\bin\Debug\Assignment_5.exe
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\bin\Debug\Assignment_5.pdb
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\obj\Debug\Assignment_5.exe
+D:\Training\C#\Day 4\Assignment_5\Assignment_5\obj\Debug\Assignment_5.pdb
