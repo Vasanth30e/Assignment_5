@@ -13,6 +13,7 @@ namespace Assignment_5
             string ValiduserName = "vasan@123";
             string Validpassword = "vth@456";
             
+            
 
             int attempts = 3;
             while(attempts > 0)
@@ -25,6 +26,8 @@ namespace Assignment_5
                 if (userName == ValiduserName && password == Validpassword) 
                 {
                     Console.WriteLine("Login Successfull!");
+                    break;
+                    
                 }
 
                 else if(userName == ValiduserName) {
